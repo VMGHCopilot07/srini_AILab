@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\suboptimal data structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\suboptimal data structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\securityissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\securityissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\parentchildloops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\parentchildloops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\nestedloopswithdynamicobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\nestedloopswithdynamicobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\complexitysample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\complexitysample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\largecouplingsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\largecouplingsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\multipleresponsibilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\multipleresponsibilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\deadcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\deadcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\numberconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\numberconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|c:\\users\\vmlab\\source\\repos\\ailab\\srini_ailab\\sonarqube\\sonarqube\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32695B65-B724-43FC-BDC2-C3FECFDCD785}|SonarQube\\SonarQube.csproj|solutionrelative:sonarqube\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:52:16.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParentChildLoops.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\ParentChildLoops.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\ParentChildLoops.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\ParentChildLoops.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\ParentChildLoops.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:50:41.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubOptimal Data Structure.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\SubOptimal Data Structure.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\SubOptimal Data Structure.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\SubOptimal Data Structure.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\SubOptimal Data Structure.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wCQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:37:08.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecurityIssues.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\SecurityIssues.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\SecurityIssues.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\SecurityIssues.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\SecurityIssues.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA2wA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:37:05.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NestedLoopsWithDynamicObjects.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\NestedLoopsWithDynamicObjects.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\NestedLoopsWithDynamicObjects.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\NestedLoopsWithDynamicObjects.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\NestedLoopsWithDynamicObjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:36:51.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MultipleResponsibilities.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\MultipleResponsibilities.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\MultipleResponsibilities.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\MultipleResponsibilities.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\MultipleResponsibilities.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:31:28.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComplexitySample.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\ComplexitySample.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\ComplexitySample.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\ComplexitySample.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\ComplexitySample.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wDAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:31:14.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LargeCouplingSample.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\LargeCouplingSample.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\LargeCouplingSample.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\LargeCouplingSample.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\LargeCouplingSample.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:27:39.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:26:37.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NumberConverter.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\NumberConverter.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\NumberConverter.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\NumberConverter.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\NumberConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:18:23.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeadCode.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\DeadCode.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\DeadCode.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\DeadCode.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\DeadCode.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:13:27.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PolicyController.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\PolicyController.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\PolicyController.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\PolicyController.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\PolicyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:15:56.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Program.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Program.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Program.cs",
+              "RelativeToolTip": "SonarQube\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:12:35.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "SonarQube\\Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\VMLab\\source\\repos\\AILAb\\srini_AILab\\SonarQube\\SonarQube\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "SonarQube\\Controllers\\ClaimsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:06:49.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

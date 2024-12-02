@@ -1,0 +1,8 @@
+C:\Users\VMLab\source\repos\AILAb\srini_AILab\SonarQube\SonarQube\obj\Debug\net8.0\SonarQube.csproj.AssemblyReference.cache
+C:\Users\VMLab\source\repos\AILAb\srini_AILab\SonarQube\SonarQube\obj\Debug\net8.0\SonarQube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMLab\source\repos\AILAb\srini_AILab\SonarQube\SonarQube\obj\Debug\net8.0\SonarQube.AssemblyInfoInputs.cache
+C:\Users\VMLab\source\repos\AILAb\srini_AILab\SonarQube\SonarQube\obj\Debug\net8.0\SonarQube.AssemblyInfo.cs
+C:\Users\VMLab\source\repos\AILAb\srini_AILab\SonarQube\SonarQube\obj\Debug\net8.0\SonarQube.csproj.CoreCompileInputs.cache
+C:\Users\VMLab\source\repos\AILAb\srini_AILab\SonarQube\SonarQube\obj\Debug\net8.0\SonarQube.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VMLab\source\repos\AILAb\srini_AILab\SonarQube\SonarQube\obj\Debug\net8.0\SonarQube.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VMLab\source\repos\AILAb\srini_AILab\SonarQube\SonarQube\obj\Debug\net8.0\SonarQube.sourcelink.json
